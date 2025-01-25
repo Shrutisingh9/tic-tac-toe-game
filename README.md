@@ -23,4 +23,5 @@ A simple implementation of the classis Tic Tac Toe game using HTML, CSS, JavaScr
 <br>
 <br>
 <b>Contributing</b>
+<br>
 Pull request and issues are welcomed! Iff you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
